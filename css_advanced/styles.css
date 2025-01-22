@@ -1,0 +1,46 @@
+body {
+    background-image: url('./images/Object.png');
+}
+h1 {
+    color: #fcfafa;
+    text-align: center;
+    font-size: 100px;
+}
+
+ul {
+    float: right;
+    display: flex;
+    list-style-type: none;
+    color: #fcfafa;
+    margin-right: 50px;
+    
+}
+li {
+    margin: 0 1em;
+    margin-top: 20px;
+}
+.logo {
+    margin-left: 90px;
+    margin-top: 20px;
+}
+
+.span {
+    text-align: center;
+    color: #fcfafa;
+    font-size: 30px;
+    margin: 0 1em;
+}
+.pros {
+    text-align: center;
+    color: #fcfafa;
+}
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+.image {
+    display: flex;
+    justify-content: center;
+}
